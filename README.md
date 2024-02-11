@@ -17,4 +17,6 @@ iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main
 ```
 si la instalacion da error al ejecutar como administrador darle ¨N¨ en  la primera opcion despues ¨Y¨ y se intalara corectamnete 
 
-recordar todo esto desde la version de spotify launcher no la de microsft
+recordar todo esto desde la version de spotify launcher no la de microsft una ves todo echo distrutar de spotify sin anuncios y customs
+
+![image](https://github.com/N3bulaX/Spotify/assets/117851699/9c63d36a-2e5d-46b1-b487-82ebb20aa5d7)
