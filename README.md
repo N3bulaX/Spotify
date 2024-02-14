@@ -22,10 +22,10 @@ recordar todo esto desde la version de spotify launcher no la de microsft una ve
 Powershell(admin)
 
 ```
-iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex
+Powershell como(admin)
 ```
 ![image](https://github.com/N3bulaX/Spotify/assets/117851699/19883eb6-af35-4f43-bca2-154f26a44a8a)
-Powershell(admin)
+
 ```
 run
 ```
