@@ -20,3 +20,8 @@ si la instalacion da error al ejecutar como administrador darle ¨N¨ en  la pri
 recordar todo esto desde la version de spotify launcher no la de microsft una ves todo echo distrutar de spotify sin anuncios y customs
 
 ![image](https://github.com/N3bulaX/Spotify/assets/117851699/9c63d36a-2e5d-46b1-b487-82ebb20aa5d7)
+
+Powershell(admin)
+![image](https://github.com/N3bulaX/Spotify/assets/117851699/7a5ef2c1-69ee-443f-aa14-97047568c8a7)
+.
+![image](https://github.com/N3bulaX/Spotify/assets/117851699/19883eb6-af35-4f43-bca2-154f26a44a8a)
