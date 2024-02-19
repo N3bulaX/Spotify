@@ -105,7 +105,8 @@ sudo chmod a+wr /usr/share/spotify/Apps -R
 ```
   !El tuyo puede ser diferente, intente estos pasos: 
 
-1 Encontrar flatpak el lugar de instalación con el comando: flatpak --installations
+1 Encontrar flatpak el lugar de instalación con el comando: flatpak --installations 
+
 2 Ir a ese directorio y cavar hasta encontrar la carpeta que contiene artículos como estos: 
 
 ![57563050-81408780-73dc-11e9-92e8-d0cc60502ff3](https://github.com/N3bulaX/Spotify/assets/117851699/66cdbf3b-4fb0-46c4-a0bb-6390fd621148)
