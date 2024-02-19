@@ -5,6 +5,11 @@ para personalizar el oficial de Spotify cliente.
 Instalación
 Windows
 
+si la instalacion da error al ejecutar como administrador darle ¨N¨ en  la primera opcion despues ¨Y¨ y se intalara corectamnete 
+
+recordar todo esto desde la version de spotify launcher no la de microsft una ves todo echo distrutar de spotify sin anuncios y customs
+
+
 Este es el método de instalación se recomienda para la mayoría de los usuarios. Es la forma más rápida y segura para instalar Spicetify.
 Powershell (binario precompilado) ejecutar como administrador
 
@@ -15,9 +20,6 @@ También ejecute el siguiente si desea instalar el Spicetify Mercado , que le da
 ```
 iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1 | iex
 ```
-si la instalacion da error al ejecutar como administrador darle ¨N¨ en  la primera opcion despues ¨Y¨ y se intalara corectamnete 
-
-recordar todo esto desde la version de spotify launcher no la de microsft una ves todo echo distrutar de spotify sin anuncios y customs
 
 Powershell(admin)
 
