@@ -7,8 +7,7 @@ Windows
 
 si la instalacion da error al ejecutar como administrador darle ¨N¨ en  la primera opcion despues ¨Y¨ y se intalara corectamnete 
 
-recordar todo esto desde la version de spotify launcher no la de microsft una ves todo echo distrutar de spotify sin anuncios y customs
-https://www.spotify.com/us/download
+recordar todo esto desde la version de spotify launcher ( https://www.spotify.com/us/download )no la de microsft una ves todo echo distrutar de spotify sin anuncios y customs
 
 
 Este es el método de instalación se recomienda para la mayoría de los usuarios. Es la forma más rápida y segura para instalar Spicetify.
