@@ -34,15 +34,14 @@ run
 ```
 ![image](https://github.com/N3bulaX/Spotify/assets/117851699/7a5ef2c1-69ee-443f-aa14-97047568c8a7)
 
-```
-Una ves echo todo para tener spotify sin auncion te iras a la seccion de Marketplace
-```
+
+# Una ves echo todo para tener spotify sin auncion te iras a la seccion de Marketplace
+
 ![image](https://github.com/N3bulaX/Spotify/assets/117851699/65ee814e-1c8f-4f44-befa-7aed10ef9a03)
 
 
-```
-Una ves ahi buscar la siguiente extencion le das descargar y  reiniciar, listo disfruta  
-```
+# Una ves ahi buscar la siguiente extencion le das descargar y  reiniciar, listo disfruta  
+
 ![Captura de pantalla 2024-02-19 232830](https://github.com/N3bulaX/Spotify/assets/117851699/779cb288-5f4c-4b61-b2d4-47de22906ba4)
 
 
