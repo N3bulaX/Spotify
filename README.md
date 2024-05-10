@@ -25,7 +25,6 @@ iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main
 # Windows
 Open Powershell and paste the following by unpdate a marketplace:
 
-Powershell(admin)
 ```
 Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1" | Invoke-Expression
 ```
