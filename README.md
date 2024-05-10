@@ -22,6 +22,14 @@ También ejecute el siguiente si desea instalar el Spicetify Mercado , que le da
 iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1 | iex
 ```
 
+# Windows
+Open Powershell and paste the following by unpdate a marketplace:
+
+Powershell(admin)
+```
+Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1" | Invoke-Expression
+```
+
 Powershell(admin)
 
 ```
