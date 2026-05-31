@@ -29,10 +29,10 @@ Open Powershell and paste the following by unpdate a marketplace:
 Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1" | Invoke-Expression
 ```
 
-Powershell(admin)
+Powershell
 
 ```
-Powershell como(admin)
+Powershell
 ```
 ![image](https://github.com/N3bulaX/Spotify/assets/117851699/19883eb6-af35-4f43-bca2-154f26a44a8a)
 
